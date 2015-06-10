@@ -3,7 +3,6 @@
 //  OpenConnectGUI
 //
 //  Created by Hannu Kröger on 9/6/2015.
-//  Copyright (c) 2015 Hannu Kröger. All rights reserved.
 //
 
 // Icons by http://www.flaticon.com/authors/anton-saputro
